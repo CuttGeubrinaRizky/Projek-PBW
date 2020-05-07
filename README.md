@@ -1,5 +1,6 @@
-<h1> ABOUT KEPIANGLON <h1>
-    <p> Website ini berisi data pemasukan dan data pengeluaran yang memiliki beberapa fungsi : </p>
+<h1><b> ABOUT KEPIANGLON <b><h1>
+    <p>KepiangLon merupakan website yang berisi catatan keuangan meliputi pemasukan dan pengeluaran.Fitur yang tersedia dari Website ini            berupa dashboard (total pemasukan,pengeluaran,serta sisa), data pemasukan, data pengeluaran, about, dan opsi register akun
+    <p> Website ini memiliki beberapa fungsi : </p>
         <ul>
             <li>Mencatat seluruh data pemasukan dan data pengeluaran sehari-hari. Sehingga memudahkan
                 pengguna untuk membuat rincian pemasukan dan pengeluaran, tanpa perlu membuat rincian keuangan secara
@@ -10,3 +11,12 @@
             <br>
             <li>Menampilkan laporan keuangan sehari-hari</li>
        <ul>
+           
+<h1><b>PROJEK FINAL<b><h1>
+    <p> Peembuatan website ini merupakan projek final untuk mata kuliah Pemrograman Berbeasis Web (PBW) Oleh kelompok 3</p>
+    <ul>
+        <li> 1808107010008 Ayu Maulina</li> <br>
+        <li> 1808107010012 Cut Geubrina Rizky </li><br>
+        <li> 1808107010012 Fadhilah Syafa </li><br>
+        <li> 1808107010003 Nadya Nadhita</li>
+    <ul>
