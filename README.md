@@ -1,5 +1,5 @@
 <h1><b> ABOUT KEPIANGLON <b><h1>
-    <p>KepiangLon merupakan website yang berisi catatan keuangan meliputi pemasukan dan pengeluaran.Fitur yang tersedia dari Website ini            berupa dashboard (total pemasukan,pengeluaran,serta sisa), data pemasukan, data pengeluaran, about, dan opsi register akun
+    <p>KepiangLon merupakan website yang berisi catatan keuangan meliputi pemasukan dan pengeluaran.Fitur yang tersedia dari Website ini            berupa dashboard (total pemasukan,pengeluaran,serta sisa), data pemasukan, data pengeluaran, about, dan opsi register akun</p>
     <p> Website ini memiliki beberapa fungsi : </p>
         <ul>
             <li>Mencatat seluruh data pemasukan dan data pengeluaran sehari-hari. Sehingga memudahkan
