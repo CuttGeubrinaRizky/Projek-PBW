@@ -22,7 +22,7 @@
                     <div align="center">
                         <div>
                             <div class="card-main">
-                                <img src="{{ asset('image/masuk.jpg') }}" alt="Avatar" class="image">
+                                <img src="{{ asset('image/masuk.jpeg') }}" alt="Avatar" class="image">
                                 <div class="overlay  overlayLeft">
                                     <div class="text"><b><i>Pemasukan</i></b>
                                         <div class="fluid-container">
@@ -32,7 +32,7 @@
                                 </div>
                             </div>
                             <div class="card-main">
-                                <img src="{{ asset('image/keluar.jpg') }}" alt="Avatar" class="image">
+                                <img src="{{ asset('image/keluar.jpeg') }}" alt="Avatar" class="image">
                                 <div class="overlay overlayRight">
                                     <div class="text"><b><i>Pengeluaran</i></b>
                                         <div class="fluid-container">
@@ -42,7 +42,7 @@
                                 </div>
                             </div>
                             <div class="card-main">
-                                <img src="{{ asset('image/total.jpg') }}" alt="Avatar" class="image">
+                                <img src="{{ asset('image/total.jpeg') }}" alt="Avatar" class="image">
                                 <div class="overlay overlayFade">
                                     <div class="text"><b><i>Sisa</i></b>
                                         <div class="fluid-container">
