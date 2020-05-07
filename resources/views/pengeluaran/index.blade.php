@@ -37,7 +37,7 @@
             <td>{{$data->id}}</td>
             <td>{{$data->hari}}</td>
             <td>{{$data->tanggal}}</td>
-            <td>{{$data->nominal}}</td>
+            <td>Rp. {{number_format($data->nominal,0)}}</td>
             <td>{{$data->kategori2}}</td>
             <td>{{$data->keterangan}}</td>
             <td><a href="{{ route('pengeluaran.edit', $data->id)}}" class="btn btn-primary">Edit</a></td>
