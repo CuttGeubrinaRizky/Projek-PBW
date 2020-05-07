@@ -42,7 +42,7 @@
                                 </div>
                             </div>
                             <div class="card-main">
-                                <img src="{{ asset('image/total.jpeg') }}" alt="Avatar" class="image">
+                                <img src="{{ asset('image/sisa.jpeg') }}" alt="Avatar" class="image">
                                 <div class="overlay overlayFade">
                                     <div class="text"><b><i>Sisa</i></b>
                                         <div class="fluid-container">
