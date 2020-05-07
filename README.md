@@ -11,12 +11,11 @@
             <br>
             <li>Menampilkan laporan keuangan sehari-hari</li>
        <ul>
-           
 <h1><b>PROJEK FINAL<b></h1>
-    <p> Peembuatan website ini merupakan projek final untuk mata kuliah Pemrograman Berbeasis Web (PBW) Oleh kelompok 3</p>
+    <p> Pembuatan website ini merupakan projek final untuk mata kuliah Pemrograman Berbeasis Web (PBW) Oleh kelompok 3</p>
     <ul>
-        <li> 1808107010008 Ayu Maulina</li> <br>
-        <li> 1808107010012 Cut Geubrina Rizky </li><br>
-        <li> 1808107010012 Fadhilah Syafa </li><br>
+        <li> 1808107010008 Ayu Maulina</li>
+        <li> 1808107010012 Cut Geubrina Rizky </li>
+        <li> 1808107010016 Fadhilah Syafa </li>
         <li> 1808107010003 Nadya Nadhita</li>
     <ul>
